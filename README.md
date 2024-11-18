@@ -1,1 +1,2 @@
 # aibut
+# first time github
